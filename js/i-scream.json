@@ -1,30 +1,52 @@
 {
-  "companyName" : "I Scream Inc.",
-  "headOffice" : "South Pole, Antarctica",
-  "established" : 2001,
-  "active" : true,
-  "topFlavors" : [
+  "companyName": "I Scream Inc.",
+  "headOffice": "South Pole, Antarctica",
+  "established": 2001,
+  "active": true,
+  "topFlavors": [
     {
-      "name" : "Monstrous Mint",
-      "calories" : 400,
-      "type" : "ice cream",
-      "ingredients" : [
+      "name": "Monstrous Mint",
+      "calories": 400,
+      "type": "ice cream",
+      "ingredients": [
         "peppermint cream",
         "dark chocolate chips",
         "vanilla extract"
       ],
-      "image" : "chocolate-mint.svg"
+      "image": "chocolate-mint.svg"
     },
     {
-      "name" : "Perfect Peach Mango",
-      "calories" : 350,
-      "type" : "sorbet",
-      "ingredients" : [
+      "name": "Perfect Peach Mango",
+      "calories": 350,
+      "type": "sorbet",
+      "ingredients": [
         "peach purée",
         "mango chunks",
         "clover honey"
       ],
-      "image" : "peach-mango.svg"
+      "image": "peach-mango.svg"
+    },
+    {
+      "name": "Chocolate Lava Rush",
+      "calories": 550,
+      "type": "ice cream",
+      "ingredients": [
+        "chocolate fudge",
+        "marshmallow swirls",
+        "caramel ribbons"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Tropical Twist",
+      "calories": 300,
+      "type": "sorbet",
+      "ingredients": [
+        "pineapple",
+        "coconut milk",
+        "lime zest"
+      ],
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
